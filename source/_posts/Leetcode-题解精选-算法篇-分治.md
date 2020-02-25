@@ -4,8 +4,7 @@ date: 2020-02-25 17:10:33
 categories: 算法&数据结构
 tags:
   - 算法
-  - 数据结构
-  - 链表
+  - 分治
 ---
 
 <font color=gray size=1>本文转载自github项目https://github.com/CyC2018/CS-Notes</font>
